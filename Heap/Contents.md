@@ -5,3 +5,5 @@
 # 3. Heapify and Extract
 
 # 4. Decrease key, Delete and Build Heap
+
+# 5. Heap Sort
