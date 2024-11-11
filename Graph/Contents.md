@@ -1,15 +1,19 @@
-# 1. Adjacency List implementation in JAVA
+# 1. Adjacency List implementation
 
-# 2. Breadth First Search (BFS)
+# 2. Adjacency List implementation for weighted graph
 
-# 3. Depth First Search (DFS)
+# 3. Breadth First Search (BFS)
 
-# 4. Shortest distances from source in Unweighted graph
+# 4. Depth First Search (DFS)
 
-# 5. Detect cycle in Undirected graph
+# 5. Shortest distances from source in Unweighted graph
 
-# 6. Detect cycle in Directed graph
+# 6. Detect cycle in Undirected graph
 
-# 7. Topological Sorting
+# 7. Detect cycle in Directed graph
 
-# 8. Detect cycle in Directed graph (Kahn's algorithm)
+# 8. Topological Sorting
+
+# 9. Detect cycle in Directed graph (Kahn's algorithm)
+
+# 10. Shortest distances from source in Weighted DAG
