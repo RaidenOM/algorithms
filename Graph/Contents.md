@@ -17,3 +17,11 @@
 # 9. Detect cycle in Directed graph (Kahn's algorithm)
 
 # 10. Shortest distances from source in Weighted DAG
+
+# 11. Minimum Spanning Tree (Prim's algorithm)
+
+# 12. Shortest Path Graph (Dijkstra's algorithm)
+
+# 13. Strongly Connected Components (Kosaraju's algorithm)
+
+# 14. Shortest Path Graph (Bellman Ford's algorithm)
