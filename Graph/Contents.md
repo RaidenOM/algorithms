@@ -29,3 +29,5 @@
 # 15. Articulation Point
 
 # 16. Bridges in Graph
+
+# 17. Strongly Connected Components (Tarjan's algorithm)
