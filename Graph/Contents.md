@@ -25,3 +25,7 @@
 # 13. Strongly Connected Components (Kosaraju's algorithm)
 
 # 14. Shortest Path Graph (Bellman Ford's algorithm)
+
+# 15. Articulation Point
+
+# 16. Bridges in Graph
