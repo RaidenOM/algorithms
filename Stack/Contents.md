@@ -11,3 +11,9 @@
 # 6. Stock Span Problem
 
 # 7. Next Greater Element
+
+# 8. Infix to Postfix conversion
+
+# 9. Postfix Evaluation
+
+# 10. Infix to Prefix conversion
