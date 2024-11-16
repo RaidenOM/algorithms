@@ -19,3 +19,9 @@
 # 10. Infix to Prefix conversion
 
 # 11. Prefix Evaluation
+
+# 12. Largest Rectangular area in a Histogram
+
+# 13. Largesst Rectangle with all 1's
+
+# 14. Stack with getMin() in O(1)
