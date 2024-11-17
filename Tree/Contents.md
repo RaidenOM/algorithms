@@ -21,3 +21,11 @@
 # 11. Maximum width of Binary Tree
 
 # 12. Convert Binary Tree to Doubly Linked List
+
+# 13. Construct Binary Tree from Inorder and Preorder arrays
+
+# 14. Path array from root to a node
+
+# 15. LCA of a Binary Tree
+
+# 16. Count nodes in a Complete Binary Tree
